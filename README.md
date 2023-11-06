@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/smit-joshi814/smit-joshi814/blob/main/programmng-language.jpg" />
 </p>
 
 ```js
