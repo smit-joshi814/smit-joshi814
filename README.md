@@ -11,6 +11,7 @@ class Skills implements FullStackDeveloper {
     String[] frontEnd   = new String[] { "Html" , "CSS" , "JavaScript" , "Bootstrap" , "jQuery" };
     String[] databases  = new String[] { "Oracle" , "MySQL", "MongoDB" };
     String[] frameworks = new String[] { "Spring Boot", "Flutter" };
+    String[] others     = new String[]  { "Spring Security" , "JWT Auth" , "Docker" }
 }
 
 class Bio extends Skills {
