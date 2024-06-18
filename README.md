@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="blank" href="https://www.canva.com/design/DAF7z6ElZ0Y/M2eaNq7bW_tN5YyyGi4Lig/watch?utm_content=DAF7z6ElZ0Y&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"><img src="https://github.com/smit-joshi814/smit-joshi814/assets/45530965/633d826a-9341-4094-9197-4716404184e5" /> </a>
+  <a href="https://www.canva.com/design/DAF7z6ElZ0Y/M2eaNq7bW_tN5YyyGi4Lig/watch?utm_content=DAF7z6ElZ0Y&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" target="_blank"><img src="https://github.com/smit-joshi814/smit-joshi814/assets/45530965/633d826a-9341-4094-9197-4716404184e5" /> </a>
 </p>
 
 ```js
